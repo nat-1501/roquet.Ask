@@ -96,6 +96,7 @@
     margin-bottom: .8rem;
     border-radius: 0 .8rem .8rem .8rem ;
     padding: 2.4rem;
+
 }
 
 .question-wrapper .question-content{
@@ -135,3 +136,11 @@
 .question-wrapper .actions > a + a{
     margin-left: 2.4rem;
 }
+.question-wrapper.read{
+        background: var(--grey-medium);
+}
+    
+.question-wrapper.read .question-content .user{
+        background: var(--gre-blue);
+}
+    
