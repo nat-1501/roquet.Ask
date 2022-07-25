@@ -2,7 +2,7 @@
   "name": "roquet.ask",
   "version": "1.0.0",
   "description": "",
-  "main": "nodemon/server.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "nodemon ."
   },
