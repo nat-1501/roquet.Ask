@@ -37,7 +37,7 @@ module.exports = {
 
     open(req, res) {
         const roomId = req.params.room
-        res.render("room", {roomId})
+        res.render("room", {roomId: roomId})
     }
 
     // async open(req, res){
