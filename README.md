@@ -15,7 +15,7 @@
 
 
 ## 💻 Project
-O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
+Rocket.Q is an application for interaction through questions, it is possible to create a room for anonymous internet users to ask questions and the creator of the room, in possession of a password, manage these questions and mark them as read.
 
 
 ## ✨ Technology
@@ -32,10 +32,9 @@ This project was developed with the following technologies:
 
 ## ⚒️  Pre-requisites
 
-É necessário ter instalado em sua maquina ([NodeJS](https://nodejs.org/en/)),
-([Beekeeper](https://www.beekeeperstudio.io/download/?ext=exe&arch=&type=installer&edition=ultimate)) Ou outro de sua preferencia, e 
+You must have it installed on your machine ([NodeJS](https://nodejs.org/en/)),
+([Beekeeper](https://www.beekeeperstudio.io/download/?ext=exe&arch=&type=installer&edition=ultimate)) Or another one of your choice, and
 ([Git](https://git-scm.com/downloads))
-
 
 ## 🔖 Layout
 
