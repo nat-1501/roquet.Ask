@@ -38,29 +38,29 @@ You must have it installed on your machine ([NodeJS](https://nodejs.org/en/)),
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [from this link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). It is necessary to have an account [Figma](https://figma.com) to access it.
 
 ## Clone repository
 
-Vá para o diretório onde você deseja colocar o repositório
+Go to the directory where you want to place the repository
 
 ```bash
   cd my-directory
 ```
 
-Clone o projeto
+clone the project
 
 ```bash
   git clone https://github.com/nat-1501/roquet.Ask.git
 ```
 
-Vá para o diretório do projeto
+Go to the project directory
 
 ```bash
   cd roquet.Ask
 ```
 
-Agora abra no editor de texto que preferir (no caso do VScode)
+Now open in the text editor you prefer (in the case of VScode)
 
 ```bash
   code .
