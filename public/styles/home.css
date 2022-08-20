@@ -31,6 +31,16 @@ main .container{
     width: min(36.3rem, 100%);
 }
 
+ h1{
+    font-family: 'Poppins', sans-serif;
+    color: var(--black);
+    font-size: clamp(25px, 8vw, 3.5rem);
+    margin-bottom: 3.8rem;
+    white-space: nowrap;
+
+}
+
+
 main h2{
     font-family: 'Poppins', sans-serif;
     color: var(--black);

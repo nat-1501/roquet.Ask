@@ -13,11 +13,10 @@ route.get('/create-pass', (req, res) => res.render("index", {page: 'create-pass'
 route.post('/create-room', RoomController.create)
 route.get('/room/:room', RoomController.open)
 route.post('/enterroom', RoomController.enter)
-// route.get('/enterusuario', RoomController.open)
 
 route.post('/question/create/:room', QuestionController.create)
 route.post('/question/:room/:question/:action', QuestionController.index)
 
-//teste git
+
 
 module.exports = route
