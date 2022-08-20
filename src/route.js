@@ -18,6 +18,6 @@ route.post('/enterroom', RoomController.enter)
 route.post('/question/create/:room', QuestionController.create)
 route.post('/question/:room/:question/:action', QuestionController.index)
 
-
+//teste git
 
 module.exports = route
